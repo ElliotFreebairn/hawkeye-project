@@ -10,6 +10,13 @@ Creating a higher/lower card game might have been much easier, however I'm reall
 
 Building Karma instead of higher/lower meant more time spent programming the logic and core game, so to focus on that, I chose a simple CLI interface instead of a GUI.
 
+## How could it be improved?
+
+Adding a GUI would significantly improve user experience and playability.
+
+Improving the shuffling would improve the fairness of the game.
+
+
 ## How to play
 
 Here is a link to the rules of Karma: https://gamerules.com/rules/karma/
